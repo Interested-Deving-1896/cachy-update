@@ -6,7 +6,7 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR
 msgid ""
 msgstr ""
-"Project-Id-Version: Arch-Update 3.20.3\n"
+"Project-Id-Version: Arch-Update 3.20.4\n"
 "Report-Msgid-Bugs-To: https://github.com/Antiz96/arch-update/issues\n"
 "POT-Creation-Date: 2024-03-17 16:22+0100\n"
 "PO-Revision-Date: 2026-07-02 12:50+0200\n"
@@ -461,8 +461,8 @@ msgid ""
 msgstr ""
 "Impossibile recuperare le notizie selezionate su Arch Linux (Risposta di "
 "errore HTTP o richiesta scaduta)\\nSi prega di leggere le notizie "
-"selezionate su Arch Linux all'indirizzo ${news_url} prima di aggiornare "
-"il sistema"
+"selezionate su Arch Linux all'indirizzo ${news_url} prima di aggiornare il "
+"sistema"
 
 #: src/lib/list_news.sh:85
 #, sh-format
