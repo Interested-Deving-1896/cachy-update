@@ -161,7 +161,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@Impostor0729](https://github.com/Impostor0729) | 2 |
 | [@up-the-hill](https://github.com/up-the-hill) | 2 |
 | [@ALiAvkaya](https://github.com/ALiAvkaya) | 2 |
-| [@FineWolf](https://github.com/FineWolf) | 1 |
+| [@julionc](https://github.com/julionc) | 1 |
 | [@KarlMHanson](https://github.com/KarlMHanson) | 1 |
 <!-- AI:end:contributors -->
 
