@@ -158,11 +158,11 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@ahmubashshir](https://github.com/ahmubashshir) | 2 |
 | [@compulsions](https://github.com/compulsions) | 2 |
 | [@m2u-84](https://github.com/m2u-84) | 2 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 2 |
 | [@Impostor0729](https://github.com/Impostor0729) | 2 |
 | [@up-the-hill](https://github.com/up-the-hill) | 2 |
 | [@ALiAvkaya](https://github.com/ALiAvkaya) | 2 |
-| [@julionc](https://github.com/julionc) | 1 |
-| [@KarlMHanson](https://github.com/KarlMHanson) | 1 |
+| [@FineWolf](https://github.com/FineWolf) | 1 |
 <!-- AI:end:contributors -->
 
 ## Origins
