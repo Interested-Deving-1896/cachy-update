@@ -148,6 +148,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@mgruberb](https://github.com/mgruberb) | 4 |
 | [@Carlson24](https://github.com/Carlson24) | 3 |
 | [@djgs01](https://github.com/djgs01) | 3 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 3 |
 | [@bingenm](https://github.com/bingenm) | 3 |
 | [@summoner001](https://github.com/summoner001) | 2 |
 | [@taotieren](https://github.com/taotieren) | 2 |
@@ -158,7 +159,6 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@ahmubashshir](https://github.com/ahmubashshir) | 2 |
 | [@compulsions](https://github.com/compulsions) | 2 |
 | [@m2u-84](https://github.com/m2u-84) | 2 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 2 |
 | [@Impostor0729](https://github.com/Impostor0729) | 2 |
 | [@up-the-hill](https://github.com/up-the-hill) | 2 |
 | [@ALiAvkaya](https://github.com/ALiAvkaya) | 2 |
@@ -180,18 +180,15 @@ _No additional resource files found._
 ## Accessibility
 
 <!-- AI:start:accessibility -->
-This repo uses automated accessibility auditing via `check-accessibility.yml`.
-
-Checks include: CODEOWNERS ownership coverage, README screen-reader compatibility,
-WCAG 2.1 AA HTML compliance, audio overview (espeak-ng), and Braille output (liblouis).
-
+No  was found when this README was generated. Check the
+[Actions tab](https://github.com/Interested-Deving-1896/cachy-update/actions) for repository-specific checks, and document an
+accessibility status only when a report or workflow provides evidence for it.
 
 
 
-Run the [Check Accessibility](https://github.com/Interested-Deving-1896/cachy-update/actions/workflows/check-accessibility.yml)
-workflow to generate the first report and accessibility artifacts.
+
 See the [W3C Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
-for the underlying accessibility reference.
+for accessibility guidance.
 <!-- AI:end:accessibility -->
 
 ## License
